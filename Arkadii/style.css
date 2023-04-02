@@ -1,0 +1,13 @@
+div{
+    background-color: chocolate;
+    width: 400px;
+    height: 600px;
+    border-radius: 0px 100px / 120px;
+    padding: 20px;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
